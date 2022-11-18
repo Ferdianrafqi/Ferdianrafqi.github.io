@@ -1,3 +1,8 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
 body{
     background-color: #24262b;
     color: #d6d1ca;
@@ -97,6 +102,7 @@ input[type='email']{
 .performance p{
     margin-top: -10px;
     color: #d6d1caa2;
+    font-weight: 600;
 }
 
 .price .h4{
